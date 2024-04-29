@@ -1,6 +1,6 @@
 # Shopping Product List App
 
-![App Screenshot](images/screenshot.png){:width="400px" height="300px"}
+![App Screenshot](images/screenshot.png)
 
 ## Overview
 
