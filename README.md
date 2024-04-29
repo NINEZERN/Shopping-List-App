@@ -18,7 +18,7 @@ To get started with this app, follow these steps:
 
 ```bash
 # Clone the repository to your local machine
-git clone https://github.com/your-username/shopping-product-list.git
+git clone https://github.com/NINEZERN/Shopping-List-App.git
 
 # Navigate to the project directory
 cd shopping-product-list
